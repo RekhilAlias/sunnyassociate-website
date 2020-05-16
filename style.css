@@ -1,0 +1,176 @@
+/* Custom stylesheet Designed by 
+Rekhil Alias Paulose*/
+
+
+*{
+ box-sizing:border-box;
+ margin: 0px;
+}
+
+
+
+body{
+  background:black;
+
+}
+
+/* Home page Design*/
+
+#head{
+  
+  color:grey;
+  font-size: 28px;
+  position: relative;
+  font-weight:bold;
+  font-family: Sofia;
+  
+}
+
+.font{
+   
+  font-size: 25px;
+}
+
+.logo{
+  width:12%;
+  height: 12%;
+  
+}
+
+#para {
+  text-align: center;
+  color: grey;
+  font-style: italic;
+  font-size: 100%;
+  position: relative;
+  padding-top: 4%;
+
+}
+
+
+
+
+
+/*Card property */
+
+
+
+
+
+
+
+.main{
+  width: 100%;
+  position:relative;
+  margin-top:5%;
+  height: auto;
+}
+
+
+
+.card{
+  background-image:linear-gradient(black,white,grey);
+  color:white;
+  border: none;
+  height: auto;
+}
+
+
+.card-body{
+  width: auto;
+  height: auto;
+}
+
+/*list property*/
+
+#size{
+  font-size: 20px;
+  font-weight: bold;
+  color: grey;
+}
+
+#list{
+  font-size: 20px;
+  color: white;
+}
+
+
+
+footer{
+  background: white;
+  color: black;
+  text-align: center;
+  font-size: 120%;
+  height: 50%;
+  position: scroll;
+  width: 100%;
+  padding: 7%;
+  font-family: cursive;
+}
+
+/*About page*/ 
+
+nav.about {
+  background: black;
+  color: white;
+
+
+}
+
+
+.about-other {
+  color: white;
+  text-decoration: none;
+  list-style: none;
+  font-size: 15px;
+}
+
+nav ol li a.about-other {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+nav ol li a:hover {
+  color: grey;
+  font-size: 20px;
+}
+
+nav ol li a:link {
+  font-size: 15px;
+  color: white;
+}
+
+nav ol li a:active {
+  font-size: 15px;
+  color: white;
+}
+
+p.lead{
+  text-align: center;
+}
+
+
+
+/*Contact page
+inline style elements......... */
+
+
+/*Gallery page
+Inline Style Elements .......*/
+
+
+
+
+
+
+
+
+/*Videos page*/
+
+
+.video{
+  font-size: 20px;
+  color: white;
+  background: grey;
+  display:inline;
+}
