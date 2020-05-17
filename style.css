@@ -103,7 +103,7 @@ footer{
   text-align: center;
   font-size: 10px;
   height: 5px;
-  position: scroll;
+  position: fixed;
   width: 100%;
   padding: 7%;
   font-family:Lucida Console, Courier, monospace;
