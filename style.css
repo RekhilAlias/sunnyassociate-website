@@ -106,7 +106,7 @@ footer{
   position: scroll;
   width: 100%;
   padding: 7%;
-  font-family: cursive;
+  font-family:Lucida Console, Courier, monospace;
   bottom:0;
   left:0;
 }
