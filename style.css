@@ -102,8 +102,8 @@ footer{
   color: black;
   text-align: center;
   font-size: 10px;
-  height: 5px;
-  position: fixed;
+  height: 1px;
+  position: scroll;
   width: 100%;
   padding: 7%;
   font-family:Lucida Console, Courier, monospace;
