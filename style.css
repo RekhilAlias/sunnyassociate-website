@@ -106,6 +106,8 @@ footer{
   width: 100%;
   padding: 7%;
   font-family: cursive;
+  bottom:0;
+  left:0;
 }
 
 /*About page*/ 
